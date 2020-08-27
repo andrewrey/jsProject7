@@ -4,4 +4,17 @@
 
 body {
   box-sizing: border-box;
+  background-color: #34494e;
+  color: #fff;
+}
+
+.figure-container {
+  fill: transparent;
+  stroke: #fff;
+  stroke-width: 4px;
+  stroke-linecap: round;
+}
+
+.figure-part {
+  display: none;
 }
